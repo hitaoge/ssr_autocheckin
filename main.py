@@ -1,6 +1,6 @@
 import requests
 requests.packages.urllib3.disable_warnings()
-base_url = 'http://www.****.top'
+base_url = 'https://ikuuu.co'
 
 
 def checkin():
